@@ -1,0 +1,13 @@
+.Rproj.user
+.RData
+.Rhistory
+
+Data/
+!Data/external/.gitkeep
+!Data/interim/.gitkeep
+!Data/processed/.gitkeep
+!Data/raw/.gitkeep
+!Data/.gitkeep
+
+packrat/lib*/
+packrat/src/
